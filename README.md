@@ -61,7 +61,7 @@ Here are some highlights of the client projects I've worked on:
 
 Here are some of my public projects:
 
-- [Project Name](GitHub Repo Link) - Description
+- RunAaronRun (https://github.com/rajawasif/RunAaronRun) - A personal portfolio website for a professional runner, showcasing highlight videos and offering branded merchandise for sale.
 - [Another Project](GitHub Repo Link) - Description
 
 ---
