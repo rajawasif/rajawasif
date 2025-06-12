@@ -62,6 +62,7 @@ Here are some highlights of the client projects I've worked on:
 Here are some of my public projects:
 
 - RunAaronRun (https://github.com/rajawasif/RunAaronRun) - A personal portfolio website for a professional runner, showcasing highlight videos and offering branded merchandise for sale.
+- College Attendance Manager (CAM) (https://github.com/rajawasif/cam-react-native-app) - Cam is a react native mobile app with laravel API for college attendance management.
 - [Another Project](GitHub Repo Link) - Description
 
 ---
